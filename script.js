@@ -1,6 +1,6 @@
 //Project : Guess Number DOM practice
 //Name: Luis Padilla 
-//Date: October 2022
+//Date: February 2023
 'use strict';
 //Generating random number from 1 to 20
 let number  = Math.trunc(Math.random()*20)+1;
